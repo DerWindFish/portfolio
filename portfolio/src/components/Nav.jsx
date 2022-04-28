@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Nav = () => {
     return (
         <div className="header-wrapper">
-            <img></img>
+            <img src='https://imgur.com/jHo4WKq.jpeg' className='profile-picture' alt='' />
             <h2>Mark Ryan</h2>
             <div>
                 <nav className="nav-bar">
