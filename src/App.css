@@ -1,8 +1,9 @@
 .profile-picture {
   max-height: 200px;
   border-radius: 180px;
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {
