@@ -10,7 +10,7 @@ const Nav = () => {
                 <nav className="nav-bar">
                     <Link to='/about'>About Me</Link>
                     <Link to='/projects'>Projects</Link>
-                    <Link to='/resume'>Resume</Link>
+                    <Link to={{ pathname: "https://docs.google.com/document/d/14UYEoV34NeDJd1QYzxLOtcQJiLDpAFmgvI1JzzhJNZI/edit?usp=sharing" }} target="_blank">Resume </Link>
                 </nav>
             </div>
         </div>
